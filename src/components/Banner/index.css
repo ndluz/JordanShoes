@@ -1,0 +1,49 @@
+.banner-container  {
+  background: linear-gradient(rgba(24,24,24,0.5), rgba(24,24,24,0.5)),url('../../assets/jordan.svg');
+  background-repeat: no-repeat;
+  height: 370px;
+  width: 100vw;
+}
+
+.banner-container h2, .banner-container p {
+  color: #F9F9F9;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 100px;
+  font-weight: normal;
+}
+
+.banner-container h2 {
+  padding-top: 100px;
+  padding-bottom: 20px;
+  font-size: 48px;
+  text-align: left;
+}
+
+.banner-container p {
+  font-size: 24px;    
+  max-width: 737px;
+  text-align: justify;
+}
+
+@media (max-width:550px) {
+
+  .banner-container  {
+    background: linear-gradient(rgba(24,24,24,0.5), rgba(24,24,24,0.5)),url('../../assets/jordan-responsivo.svg');
+    background-repeat: no-repeat;
+    height: 370px;
+    width: 100vw;
+  }
+ 
+  .banner-container h2 {
+   font-size: 28px;
+  }
+
+  .banner-container p {
+    font-size: 18px;    
+   }
+
+  .banner-container h2,.banner-container p {
+    padding-left: 0;
+    text-align: center;
+  }
+}

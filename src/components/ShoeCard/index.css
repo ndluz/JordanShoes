@@ -1,0 +1,37 @@
+.shoe-container {
+  background-color: #eee;
+  max-width: 415px;
+  height: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+.shoe-container:hover {
+  border-radius: 8px 0 0 8px;
+  border-left: 5px solid #181818;
+}
+
+.shoe-container img  {
+  width: 250px;
+  height: 150px;
+}
+
+.shoe-container h2, .shoe-container p  {
+  font-size: 16px ;
+  color: rgb(33, 24, 24);
+  font-family: 'Montserrat', sans-serif;
+}
+
+.shoe-container h2 {
+  text-align: left;
+  max-width: 250px;
+  padding: 5px 10px;
+}
+
+.shoe-container p {
+  text-align: right;
+  padding: 5px 10px;
+  font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.bottom {
+  margin-top: auto;
+}
+
+.top {
+  position: sticky;
+  top: 0;
+}
+
+.info-bar {
+  background: #181818;  
+  width: 100vw;
+  max-height: 60px;
+  padding: 20px;  
+}
+
+.info-bar h2 {
+  color: #eeee;
+  font-size: 1.6rem;
+  font-family: 'Montserrat', sans-serif;
+}
