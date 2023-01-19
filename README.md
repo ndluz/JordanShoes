@@ -17,8 +17,13 @@ Link do figma:  https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Cod
 
 ## 💻 Demosntração
 <a href="">
-  <img src="./desktop.gif" ><br><br>
-  <img src="./mobile.gif" >
+  <img src="desktop-1.png" ><br><br>
+  <img src="desktop-2.png" ><br><br>
+  <img src="desktop-3.png" ><br><br>
+  <div style="display: flex; gap: 50px">
+  <img src="mobile-1.png" ><img src="mobile-2.png" >
+  </div>
+
 </a>
 
 ---
