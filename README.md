@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Desafio Codelândia 2
+	JordanShoes (Desafio Codelândia 2)
 </h1>
 
 ## 💻 Sobre o projeto
